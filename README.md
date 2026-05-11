@@ -65,8 +65,8 @@ python scripts/rename_statement.py <目录路径>
 
 # 指定公司信息
 python scripts/rename_statement.py <目录路径> \
-  --account 8110701012802583187 \
-  --company-name "北京磐旭科技有限公司"
+  --account 8110701 \
+  --company-name "北京***有限公司"
 ```
 
 ### 方式二：对话式
